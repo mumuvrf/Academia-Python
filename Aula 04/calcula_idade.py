@@ -1,6 +1,7 @@
-#Não há necessidade de usar condicional!
+# Questão "Calcula idade"
 
 def calcula_idade(dn, mn, an, dd, md, ad):
+    # Não há necessidade de usar condicional!
     dias_de_vida = dd + md*30 + ad*365 - dn - mn*30 - an*365
     idade = dias_de_vida//365
     return idade
