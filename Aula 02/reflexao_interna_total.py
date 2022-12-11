@@ -1,3 +1,5 @@
+# Questão "Reflexão interna total"
+
 import math
 
 def reflexao_total_interna(n1, n2, angulo):
