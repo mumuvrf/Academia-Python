@@ -1,3 +1,5 @@
+# Questão "Pedra, papel ou tesoura?"
+
 def pedra_papel_tesoura(primeiro, segundo):
     if(primeiro == "papel"):
         if(segundo == "tesoura"): return "dois"
