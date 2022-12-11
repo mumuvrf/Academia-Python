@@ -1,3 +1,5 @@
+# Questão "Precificando Pizzas"
+
 tamanho = input("Tamanho [P/M/G]? ")
 if(tamanho.upper() == "P"): preco_base = 50.0
 elif(tamanho.upper() == "M"): preco_base = 70.0
