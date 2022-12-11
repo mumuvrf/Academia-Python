@@ -1,3 +1,5 @@
+# Questão "Valida CPF"
+
 def valida_cpf(d1, d2, d3, d4, d5, d6, d7, d8, d9, v1, v2):
     if(max(d1, d2, d3, d4, d5, d6, d7, d8, d9, v1, v2) == min(d1, d2, d3, d4, d5, d6, d7, d8, d9, v1, v2)): return False
 
