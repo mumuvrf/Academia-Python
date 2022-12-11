@@ -1,3 +1,5 @@
+# Questão "Cumulativa da distribuição exponencial"
+
 import math
 
 taxa = float(input("Qual a taxa (λ)? "))
