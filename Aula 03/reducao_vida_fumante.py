@@ -1,3 +1,5 @@
+# Questão "Redução no tempo de vida de um fumante"
+
 cigarros_por_dia = int(input('Quantos cigarros fuma por dia? '))
 anos_fumante = int(input('Há quanto tempo você fuma? '))
 
