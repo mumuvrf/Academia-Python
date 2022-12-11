@@ -1,3 +1,5 @@
+# Questão "Nota Quizzes"
+
 def compara_valores(x, y):
     if(x > y): return y
     else: return x
