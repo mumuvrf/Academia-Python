@@ -1,3 +1,5 @@
+# Questão "Fila da Emergência"
+
 classificacao = input("Classificação? (V/A/L)")
 numero_vermelhos = int(input("Quantos Vermelhos estão aguardando?"))
 tempo = numero_vermelhos*7
