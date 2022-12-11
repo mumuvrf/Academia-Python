@@ -1,3 +1,5 @@
+# Questão "Divisibilidade"
+
 def divisivel(numero):
     def checa_divisibilidade(variavel, divisor):
         return variavel%divisor == 0
