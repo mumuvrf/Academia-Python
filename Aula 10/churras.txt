@@ -1,0 +1,6 @@
+Carvao,2,9.90
+Refrigerante,3,8.35
+Picanha,2,69.80
+Linguica,2,15.98
+Coxinha da Asa,2,12.39
+Contra File,3,25.98
