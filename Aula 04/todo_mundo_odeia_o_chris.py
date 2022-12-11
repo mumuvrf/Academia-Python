@@ -1,3 +1,5 @@
+# Questão "Todo mundo odeia o Chris..."
+
 nome = input('Qual seu nome? ')
 
 if nome != 'Chris':
