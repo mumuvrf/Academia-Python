@@ -1,3 +1,5 @@
+# Questão "Empréstimo bancário"
+
 valor_casa = float(input('Qual o valor da casa? '))
 salario = float(input('Qual o seu salário? '))
 anos_a_pagar = int(input('Em quantos anos você precisa pagar? '))
