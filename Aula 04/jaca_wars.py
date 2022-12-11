@@ -1,3 +1,5 @@
+# Questão "Jaca Wars!"
+
 import math
 
 velocidade = float(input("Com que velocidade você lançará sua jaca? "))
