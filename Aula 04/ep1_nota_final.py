@@ -1,3 +1,5 @@
+# Questão "EP1 - Nota Final"
+
 def nota_final(Q, AI, AF, EP1, EP2, PF):
     if(min(Q, AI, AF, EP1, EP2, PF) < 0 or max(Q, AI, AF, EP1, EP2, PF) > 10): return 0
     
