@@ -1,3 +1,5 @@
+# Questão "Preço da passagem"
+
 distancia = int(input('Qual distância deseja percorrer (em km)? '))
 
 if (distancia <= 200):
