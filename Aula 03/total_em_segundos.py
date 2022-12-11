@@ -1,3 +1,5 @@
+# Questão "Total em segundos"
+
 dias = int(input('Quantos dias? '))
 horas = int(input('Quantas horas? '))
 minutos = int(input('Quantos minutos? '))
