@@ -1,3 +1,5 @@
+# Questão "Nível do IDH"
+
 def nivel_idh(idh):
     if(idh < 0.350): return 'Sem dados'
     elif(idh < 0.555): return 'Baixo'
